@@ -1,3 +1,3 @@
-. "$(gettop)/vendor/gzosp/build/envsetup.sh"
+. "$(gettop)/vendor/elpida/build/envsetup.sh"
 
-gzosp_device_combos
+elpida_device_combos
